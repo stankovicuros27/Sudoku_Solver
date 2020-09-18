@@ -1,5 +1,5 @@
 ## Sudoku Solver
-### Heuristic Sudoku solver done as part of internship 
+### Heuristic Sudoku solver done as a part of internship 
 ##### Better performance than backtracking, especially for sudoku with dimensions larger than 9
 
 #### Using multiple different strategies:
